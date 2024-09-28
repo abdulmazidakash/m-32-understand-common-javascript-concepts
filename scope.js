@@ -7,6 +7,7 @@ function add(a, b){
 		const sum = 5 + a + b;
 		var current = sum;
 	}
+	// console.log(sum);
 	console.log(current);
 	return total;
 }
